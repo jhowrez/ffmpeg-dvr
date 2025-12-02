@@ -23,7 +23,7 @@ Running Online
 --------------
 You can run the script directly from a URL:
 
-python3 <(wget -qO- https://example.com/myscript.py) --help
+python3 <(wget -qO- https://raw.githubusercontent.com/jhowrez/ffmpeg-dvr/refs/heads/main/ffmpeg-dvr.py) --help
 
 Usage
 -----
